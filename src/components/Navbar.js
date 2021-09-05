@@ -21,7 +21,7 @@ export default function Navbar(){
                     <a href="#testimonials" className = "mr-5 hover:text-green-400">
                         Testimonials
                     </a>
-                    <a href = '../../public/CV_Ibrahim.pdf'  download className = "mr-5 hover:text-green-400">
+                    <a href = 'https://drive.google.com/file/d/1cd3Fn7G9h3pgQ5KpoXbUq9xZp1QEHwg0/view?usp=sharing'  download className = "mr-5 hover:text-green-400">
                         CV
                     </a>
                 </nav>
