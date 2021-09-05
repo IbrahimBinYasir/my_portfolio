@@ -10,12 +10,11 @@ export default function About(){
                     <h1 className = "title-font sm:text-4xl text-3xl mb-4 font-medium text white">
                         Hi, I'm Ibrahim
                         <br className = "hidden lg:inline-block" />
-                        About
+
                     </h1>
                     <p className = "mb-8 leading-relaxed">
-                        A Robotics graduate with undergrad in Mechanical Engineering. Experienced in concept generation and development from ideation to production of robotic technologies. Proficient in Mechanical Design (Solidworks), Control and Acquisition (MATLAB/LabView/ National Instruments), Prototyping (MEMS), Programming, and Project Planning/Management.
-My passion is in designing, researching practical technology for human-robot interaction in rehabilitative robotics. Self-motivated, honest, convivial, optimistic, and grit sums it up well. I am always looking to learn and contribute for the purpose betterment of quality of life . Robots being used for bridging the gap between what’s considered able and disabled drives my research interest. Currently working on innovative solutions to assist surgeons using a tactile sensor. In my free time, I like to travel, play soccer, and volunteer ^-^
-                    </p>
+                     A Robotics graduate with undergrad in Mechanical Engineering. Experienced in concept generation and development from ideation to
+                        production of robotic technologies. Proficient in Mechanical Design (Solidworks), Control and Acquisition (MATLAB/LabView), Prototyping (MEMS), Programming. My passion is in designing, researching practical technology for human-robot interaction in rehabilitative robotics. I am always looking to learn and contribute for the purpose betterment of quality of life. In my free time, I like to travel, play soccer, and volunteer ^-^                    </p>
                     <div className = "flex justify-center">
                         <a  href = "#contact"
                             className = "inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg"
