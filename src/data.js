@@ -59,6 +59,4 @@ export const skills = [
   "MEMS",
   "OriginLab",
   "Python",
-    "suking dick",
-    "like really big dicks"
 ];
