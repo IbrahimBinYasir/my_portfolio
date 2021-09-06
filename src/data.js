@@ -51,12 +51,10 @@ export const testimonials = [
   },
   {
     quote:
-    "I worked with Ibrahim during my Bachelor's degree for our final year project. We set an ambitious goal for ourselves, some may say over ambitious, but we spared no effort into trying to achieve it. Ibrahim was there every step of the way and people may find a number of faults with him but I don't think anyone can say he doesn't put in the time and effort." +
-        " Lastly he is a fun person to work with which brightened up the mood when we found ourselves stuck and banging our heads against the wall."
+      "I worked with Ibrahim during my Bachelor's degree for our final year project. We set an ambitious goal for ourselves, some may say over ambitious, but we spared no effort into trying to achieve it. Ibrahim was there every step of the way and people may find a number of faults with him but I don't think anyone can say he doesn't put in the time and effort. Lastly he is a fun person to work with which brightened up the mood when we found ourselves stuck and banging our heads against the wall."
     image: "https://randomuser.me/api/portraits/men/94.jpg",
     name: "Fahd Imtiaz",
-    company: "Software Developer at Sedenius Technologies\n" +
-        "C++ and Robot Operating System (ROS)",
+    company: "Software Developer at Sedenius Technologies",
   },
 ];
 
