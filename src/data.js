@@ -52,14 +52,14 @@ export const testimonials = [
   {
     quote:
       "Through our LFM Programme, I was fortunate enough to work with Ibrahim on two key projects in our manufacturing works. Ibrahim’s passion, energy and relentless commitment proved instrumental in driving the team towards meaningful results. As a human being he has a beautiful soul and I look back at the time spent working together with great affection; wishing him continued success in his future endeavours.",
-    image: "./Testimonials/Sir_Ahmad.jpg",
+    image: "./Sir_Ahmad.PNG",
     name: "Muhammad Ahmad Qadri",
     company: "Qadri Group",
   },
   {
     quote:
       "I worked with Ibrahim during my Bachelor's degree for our final year project. We set an ambitious goal for ourselves, some may say over ambitious, but we spared no effort into trying to achieve it. Ibrahim was there every step of the way and people may find a number of faults with him but I don't think anyone can say he doesn't put in the time and effort. Lastly he is a fun person to work with which brightened up the mood when we found ourselves stuck and banging our heads against the wall.",
-    image: "./Testimonials/fahd.jpg",
+    image: "./fahd.jpg",
     name: "Fahd Imtiaz",
     company: "Software Developer at Sedenius Technologies",
   },
