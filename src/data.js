@@ -52,7 +52,7 @@ export const testimonials = [
   {
     quote:
       "Through our LFM Programme, I was fortunate enough to work with Ibrahim on two key projects in our manufacturing works. Ibrahim’s passion, energy and relentless commitment proved instrumental in driving the team towards meaningful results. As a human being he has a beautiful soul and I look back at the time spent working together with great affection; wishing him continued success in his future endeavours.",
-    image: "./Sir_Ahmad.PNG",
+    image: "./SirAhmed.jpg",
     name: "Muhammad Ahmad Qadri",
     company: "Qadri Group",
   },
