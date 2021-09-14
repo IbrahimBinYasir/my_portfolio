@@ -43,9 +43,9 @@ export default function Contact(){
                         style = {{filter: "opacity(0.7)"}}
                         src = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1606.2529071684903!2d127.35986965082893!3d36.372747404415215!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9fa607e06759a2c9!2zS0FJU1Qg7ZWc6rWt6rO87ZWZ6riw7Iig7JuQIOuMgOuNley6oO2NvOyKpA!5e0!3m2!1sen!2skr!4v1626513946313!5m2!1sen!2skr&fbclid=IwAR2OzgQOkRGqMgfi24Fb7OHCaL72CThGMlpjtYtmonb3VQ0tTHrETl1-iT4"
                     />
-                    <div className = "bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
-                        <div className = "title-font font-semibold text-white tracking-widest text-xs">
-                            <h2 className = "title-font font-semibold text-white tracking-widest text-xs">
+                    <div className = "bg-gray-900 relative flex flex-wrap px-3 py-6 rounded shadow-md">
+                        <div className = "title-font font-semibold text-center text-white tracking-widest text-xs">
+                            <h2 className = "title-font font-semibold text-center text-white tracking-wide text-xs">
                                 ADDRESS
                             </h2>
                             <p className = "mt-1">
