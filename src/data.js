@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Flexilbe Optical Sensor for Tri-axial Force Measurement",
     description:
       "Designed a flexible, thin, lightweight & transparent optical tactile sensor capable to measuring forces in 3D (normal and shear) for enhanced human robot interaction and collaboration",
-    image: "./project-1.gif",
+    image: "./project-1.png",
     link: "https://reactbootcamp.com",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "Soft Sensor for DEA",
     description:
       "A self-sensing soft tactile actuator based on Dielectric elastomer actuator (DEA) with a transparent tactile sensor for and wearable haptic interfaces. The actuator produces an up to 0.9 N with1.43 mm, while the sensor can measure the force in a range of 0 to 1.25 N under various frequency ranges. (Collaboration with J.H.Y)",
-    image: "./project-3.gif",
+    image: "./project-3.png",
     link: "https://ieeexplore.ieee.org/abstract/document/9341087",
   },
   {
@@ -36,7 +36,7 @@ export const projects = [
     subtitle: "Hybrid Actuator for hand rehabilitation",
     description:
       "Developed a bio-inspired hybrid actuator inspired by crustacean exoskeleton by incorporating rigid shells and a soft core. When actuated, the biomimetic actuator was able to produce forces up to 11.5 N at 135 KPa, satisfying the required criteria of 8N for palm grasping. The proposed soft bio-inspired hybrid bending actuator was used as a supernumerary sixth finger for rehabilitation and robot grippers",
-    image: "./project-5.gif",
+    image: "./project-5.png",
     link: "https://drive.google.com/drive/folders/11DEagDHF3wPuOoOyNKMvtI3CadbwKSAJ?usp=sharing",
   },
 ];
