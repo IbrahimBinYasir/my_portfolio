@@ -11,12 +11,12 @@ export default function About(){
                         Hi, I'm Ibrahim
                         <br className = "hidden lg:inline-block" />
                     </h1>
-                    <div> className = "flex justify-center"
+                    <div className = "flex justify-around">
                     <img className = "object-contact object-left-top"
                          alt = "hero"
                          src = "./Me.png"
                     >
-                    </img>                 
+                    </img>
 
                     <p className = "mb-8 leading-relaxed">
                      A Robotics graduate with undergrad in Mechanical Engineering. Experienced in concept generation and development from ideation to
