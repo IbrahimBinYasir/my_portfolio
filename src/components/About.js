@@ -18,7 +18,7 @@ export default function About(){
                     >
                     </img>
 
-                    <p className = "mb-8 leading-relaxed">
+                    <p className = "container px-10 py-10 mx-auto text-center leading-relaxed">
 
                         A Robotics graduate with undergrad in Mechanical Engineering. Experienced in concept generation and development from ideation to
                         production of robotic technologies. Proficient in Mechanical Design (Solidworks), Control and Acquisition (MATLAB/LabView), Prototyping (MEMS), Programming. My passion is in designing, researching practical technology for human-robot interaction in rehabilitative robotics. I am always looking to learn and contribute for the purpose betterment of quality of life. In my free time, I like to travel, play soccer, and volunteer ^-^
@@ -38,14 +38,7 @@ export default function About(){
                         </a>
                     </div>
                 </div>
-                <div className = "lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-                    <img
-                        className = "object-cover object-center rounded"
-                        alt = "hero"
-                        src = "./Me.png"
-                    >
-                    </img>
-                </div>
+
             </div>
         </section>
     );
