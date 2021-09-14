@@ -10,8 +10,14 @@ export default function About(){
                     <h1 className = "title-font sm:text-4xl text-3xl mb-4 font-medium text white">
                         Hi, I'm Ibrahim
                         <br className = "hidden lg:inline-block" />
-
+                        <img
+                        className = "object-contact object-left-top"
+                        alt = "hero"
+                        src = "./Me.png"
+                    >
+                    </img>
                     </h1>
+
                     <p className = "mb-8 leading-relaxed">
                      A Robotics graduate with undergrad in Mechanical Engineering. Experienced in concept generation and development from ideation to
                         production of robotic technologies. Proficient in Mechanical Design (Solidworks), Control and Acquisition (MATLAB/LabView), Prototyping (MEMS), Programming. My passion is in designing, researching practical technology for human-robot interaction in rehabilitative robotics. I am always looking to learn and contribute for the purpose betterment of quality of life. In my free time, I like to travel, play soccer, and volunteer ^-^                    </p>
@@ -26,12 +32,6 @@ export default function About(){
                         >
                             See My Past Work
                         </a>
-                        <img
-                        className = "object-cover object-left-top"
-                        alt = "hero"
-                        src = "./Me.png"
-                        >
-                        </img>
                     </div>
                 </div>
                 <div className = "lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
