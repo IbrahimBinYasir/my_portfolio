@@ -26,6 +26,13 @@ export default function About(){
                         >
                             See My Past Work
                         </a>
+                        <img
+                        className = "object-cover object-left-top"
+                        alt = "hero"
+                        src = "./Me.png"
+                        >
+                        </img>
+                    </div>
                     </div>
                 </div>
                 <div className = "lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
