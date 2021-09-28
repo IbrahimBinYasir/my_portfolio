@@ -42,19 +42,19 @@ export const projects = [
 ];
 
 export const testimonials = [
-/*  {
+  {
     quote:
-      "I worked with Ibrahim during my Bachelor's degree for our final year project. We set an ambitious goal for ourselves, some may say over ambitious, but we spared no effort into trying to achieve it. Ibrahim was there every step of the way and people may find a number of faults with him but I don't think anyone can say he doesn't put in the time and effort. Lastly he is a fun person to work with which brightened up the mood when we found ourselves stuck and banging our heads against the wall",
-    image: "./fahd.jpg",
-    name: "Fahd Imtiaz",
-    company: "Software Developer at Sedenius Technologies",
-  },  */
+      "I met Ibrahim while we were both international students at Korea Advanced Institute of Science and Technology. We worked together on a project in a class called Intelligent Robotics where Ibrahim exhibited a great enthusiasm for making a highly interesting project that I am still very proud of today. He came up with the idea to train a reinforcement learning agent to control the shape of a memory alloy using an electrical current. Ibrahim was a central part of ensuring that the project succeeded: He took the lead on the mechanical and electrical parts of the project while simultaneously having a firm grib of the software and theoretical parts of the reinforcement learning algorithm. Besides from being a skilled professional, I also found Ibrahim to be a joy to work with since his personality made everyone in the team feel included and he contributed to a fun atmosphere.",
+    image: "./Chris.jpg",
+    name: "Christoffer Koo Øhrstrøm",
+    company: "Data Scientist at Visma",
+  },
   {
     quote:
       "Through our LFM Programme, I was fortunate enough to work with Ibrahim on two key projects in our manufacturing works. Ibrahim’s passion, energy and relentless commitment proved instrumental in driving the team towards meaningful results. As a human being he has a beautiful soul and I look back at the time spent working together with great affection; wishing him continued success in his future endeavours.",
     image: "./SirAhmed.jpg",
     name: "Muhammad Ahmad Qadri",
-    company: "Qadri Group",
+    company: "Director at Qadri Group",
   },
   {
     quote:
