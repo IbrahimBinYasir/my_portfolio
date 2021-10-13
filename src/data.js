@@ -56,10 +56,10 @@ export const testimonials = [
     name: "Muhammad Ahmad Qadri",
     company: "Director at Qadri Group",
   },
-      {
+  {
     quote:
       "The two words I could come up with about Ibrahim are passionate and patient. \n" +
-        "He and I did a project together in the lecture about the soft robot. He reached me first to do the project together and actively worked from start to finish. He was a creative thinker as well as a person who could look at each idea critically to reach the best idea, which I personally think is important for the engineer to develop something that really can help people. He was also a person who could patiently teach others what he is good at. As I was dealing with SMA (shape memory alloy) for the first time in the project, he calmly taught me how to deal with it and encouraged me to do it again even if I did something wrong. Not only did I learn a lot while working on the project with him, but also it was a fortune to get to know him as a fellow researcher and a good friend.",
+        "He and I did a project together in the lecture about soft robotics. He reached me first to do the project together and actively worked from start to finish. He was a creative thinker as well as a person who could look at each idea critically to reach the best idea, which I personally think is important for the engineer to develop something that really can help people. He was also a person who could patiently teach others what he is good at. As I was dealing with SMA (shape memory alloy) for the first time in the project, he calmly taught me how to deal with it and encouraged me to do it again even if I did something wrong. Not only did I learn a lot while working on the project with him, but also it was a fortune to get to know him as a fellow researcher and a good friend.",
     image: "./Hwayeong.jpg",
     name: "Hwayeong Jeong",
     company: "PhD. KAIST",
