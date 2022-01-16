@@ -30,5 +30,22 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Central repo for the website <ADD>",
+  "main": "craco.config.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbrahimBinYasir/my_portfolio.git"
+  },
+  "author": "Ibrahim Bin Yasir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IbrahimBinYasir/my_portfolio/issues"
+  },
+  "homepage": "https://github.com/IbrahimBinYasir/my_portfolio#readme",
+  "keywords": [
+    "Online",
+    "Resume"
+  ]
 }
