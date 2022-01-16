@@ -1,11 +1,16 @@
-export const projects = [
+import React from "react";
+
+
+
+export const project_data = [
   {
     title: "Sensors",
     subtitle: "Flexilbe Optical Sensor for Tri-axial Force Measurement",
     description:
       "Designed a flexible, thin, lightweight & transparent optical tactile sensor capable to measuring forces in 3D (normal and shear) for enhanced human robot interaction and collaboration",
     image: "./project-1.png",
-    link: "https://reactbootcamp.com",
+    link: "/project1",
+
   },
   {
     title: "Rehabilitation Robot",

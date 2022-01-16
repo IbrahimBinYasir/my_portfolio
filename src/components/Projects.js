@@ -1,8 +1,14 @@
 import React from "react";
 import { CodeIcon } from "@heroicons/react/solid";
-import { projects } from "../data";
+import { project_data } from "../data";
+
+
+
+
+
 
 export default function Projects(){
+
     return(
         <section id = "projects" className = "text-gray-400 bg-gray-900 body-font">
             <div className = "container px-5 py-10 mx-auto text-center lg:px-40">
@@ -12,12 +18,18 @@ export default function Projects(){
                         Projects
                     </h1>
                     <p className = "lg:w-2/3 mx-auto leading-relaxed text-base">
-                        Some of the projects I have worked along with my amazing collaborators
+                        Projects I have worked along with my amazing collaborators
                     </p>
                 </div>
+
+
+
+
+
+
                 <div className = "flex flex-wrap -m-4">
-                    {projects.map((project) => (
-                        <a 
+                    {project_data.map((project) => (
+                        <a
                             href = {project.link}
                             key = {project.image}
                             className = "sm:w-1/2 w-100 p-4">
