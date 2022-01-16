@@ -18,8 +18,7 @@ export const project_data = [
     description:
       "Contributed in developing a soft sensorized wearable glove using Shape Memory Alloy (SMA) coiled spring actuator for a wearable assist robot for the wrist. It delivered the required torque and ROM needed during activities of daily living. (Joint project KAIST and CNU Hospital funded by NRF and Ministry of Health and Welfare) ",
     image: "./project-2.png",
-    link: "/project2",
-        //"https://www.mdpi.com/2076-3417/9/19/4025",
+    link: "https://www.mdpi.com/2076-3417/9/19/4025",
   },
   {
     title: "Sensor & Actuator",
@@ -27,8 +26,7 @@ export const project_data = [
     description:
       "A self-sensing soft tactile actuator based on Dielectric elastomer actuator (DEA) with a transparent tactile sensor for and wearable haptic interfaces. The actuator produces an up to 0.9 N with1.43 mm, while the sensor can measure the force in a range of 0 to 1.25 N under various frequency ranges. (Collaboration with J.H.Y)",
     image: "./project-3.png",
-    link: "/project3",
-        //"https://ieeexplore.ieee.org/abstract/document/9341087",
+    link: "https://ieeexplore.ieee.org/abstract/document/9341087",
   },
   {
     title: "Reinforcement Learning",
@@ -36,8 +34,7 @@ export const project_data = [
     description:
       "Aimed to control SMA, specifically the position of SMA in coil form by solely using reinforcement learning (RL) in real-time environment (Collaboration with ChrisFugl)",
     image: "./project-4.png",
-    link: "/project4",
-        //"https://github.com/ChrisFugl/Shape-Memory-Alloy-Positioning",
+    link: "https://github.com/ChrisFugl/Shape-Memory-Alloy-Positioning",
   },
   {
     title: "Soft Robot Actuator",
@@ -45,8 +42,7 @@ export const project_data = [
     description:
       "Developed a bio-inspired hybrid actuator inspired by crustacean exoskeleton by incorporating rigid shells and a soft core. When actuated, the biomimetic actuator was able to produce forces up to 11.5 N at 135 KPa, satisfying the required criteria of 8N for palm grasping. The proposed soft bio-inspired hybrid bending actuator was used as a supernumerary sixth finger for rehabilitation and robot grippers",
     image: "./project-5.png",
-    link: "/project5",
-        //"https://drive.google.com/drive/folders/11DEagDHF3wPuOoOyNKMvtI3CadbwKSAJ?usp=sharing",
+    link: "https://drive.google.com/drive/folders/11DEagDHF3wPuOoOyNKMvtI3CadbwKSAJ?usp=sharing",
   },
 ];
 
