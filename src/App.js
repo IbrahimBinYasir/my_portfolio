@@ -11,6 +11,13 @@ import ErrorPage from "./components/ErrorPage";
 import Main_page from "./components/Main_page";
 
 import P1 from "./components/project_detail/Project1";
+import P2 from "./components/project_detail/Project2";
+import P3 from "./components/project_detail/Project3";
+import P4 from "./components/project_detail/Project4";
+import P5 from "./components/project_detail/Project5";
+
+
+
 
 export default function App() {
   return(
@@ -29,6 +36,10 @@ export default function App() {
                   <Route path="*" element={<ErrorPage />} />
                   <Route path="projects" element={<Projects />} />
                   <Route path="project1" element={<P1 />} />
+                  <Route path="project2" element={<P2 />} />
+                  <Route path="project3" element={<P3 />} />
+                  <Route path="project4" element={<P4 />} />
+                  <Route path="project5" element={<P5 />} />
 
 
           </Routes>
