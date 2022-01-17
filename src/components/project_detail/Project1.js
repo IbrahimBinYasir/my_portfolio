@@ -27,9 +27,9 @@ export default function Project1(){
                                 <div className="w-full md:w-6/12 mt-4 md:mt-0 md:ml-4">
                                     <h2 className="text-lg font-semibold leading-tight text-gray-800">Ready to use
                                         components</h2>
-                                    <p className="leading-normal pt-2">It provides a very simple start, no need to write
-                                        a lot of code, you just import it and start the primitive components and create
-                                        the ones you need.</p>
+                                    <p className="leading-normal pt-2">
+                                        This work explores designing a flexible, thin triaxial sensor to measure fingertip contact forces in physical HRI
+                                    </p>
 
                                     <a className="leading-normal pt-2 hover:underline text-blue-600" href="">Read
                                         more...</a>

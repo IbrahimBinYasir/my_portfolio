@@ -9,7 +9,8 @@ export const project_data = [
     description:
       "Designed a flexible, thin, lightweight & transparent optical tactile sensor capable to measuring forces in 3D (normal and shear) for enhanced human robot interaction and collaboration",
     image: "./project-1.png",
-    link: "/project1",
+    //link: "/project1",
+    link: "https://drive.google.com/file/d/1wgzZjDiGsLrIC_kcr5g7VU376saSmMoM/view?usp=sharing",
 
   },
   {
@@ -28,7 +29,6 @@ export const project_data = [
       "A self-sensing soft tactile actuator based on Dielectric elastomer actuator (DEA) with a transparent tactile sensor for and wearable haptic interfaces. The actuator produces an up to 0.9 N with1.43 mm, while the sensor can measure the force in a range of 0 to 1.25 N under various frequency ranges. (Collaboration with J.H.Y)",
     image: "./project-3.png",
     link: "/project3",
-        //"https://ieeexplore.ieee.org/abstract/document/9341087",
   },
   {
     title: "Reinforcement Learning",
@@ -36,8 +36,8 @@ export const project_data = [
     description:
       "Aimed to control SMA, specifically the position of SMA in coil form by solely using reinforcement learning (RL) in real-time environment (Collaboration with ChrisFugl)",
     image: "./project-4.png",
-    link: "/project4",
-        //"https://github.com/ChrisFugl/Shape-Memory-Alloy-Positioning",
+    //link: "/project4",
+     link: "https://github.com/ChrisFugl/Shape-Memory-Alloy-Positioning",
   },
   {
     title: "Soft Robot Actuator",
@@ -45,8 +45,8 @@ export const project_data = [
     description:
       "Developed a bio-inspired hybrid actuator inspired by crustacean exoskeleton by incorporating rigid shells and a soft core. When actuated, the biomimetic actuator was able to produce forces up to 11.5 N at 135 KPa, satisfying the required criteria of 8N for palm grasping. The proposed soft bio-inspired hybrid bending actuator was used as a supernumerary sixth finger for rehabilitation and robot grippers",
     image: "./project-5.png",
-    link: "/project5",
-        //"https://drive.google.com/drive/folders/11DEagDHF3wPuOoOyNKMvtI3CadbwKSAJ?usp=sharing",
+    //ink: "/project5",
+      link: "https://drive.google.com/drive/folders/11DEagDHF3wPuOoOyNKMvtI3CadbwKSAJ?usp=sharing",
   },
 ];
 
