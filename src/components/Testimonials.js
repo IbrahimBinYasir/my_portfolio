@@ -1,24 +1,23 @@
 import React from "react";
-import { TerminalIcon, UsersIcon } from "@heroicons/react/solid";
+import { UsersIcon } from "@heroicons/react/solid";
 import { testimonials } from "../data";
 
 export default function Testimonials(){
     return(
         <section id = "testimonials">
-            <div className = "containter px-5 py-10 auto text-center">
+            <div className = "container px-5 py-10 auto text-center">
                 <UsersIcon className = "w-10 inline-block mb-4"/>
-                <h1 className = "sm:text-4xl text-3xl font-medium title-font text-white mb-12">
+                <h1 className = "sm:text-4xl text-3xl font-medium title-font text-black mb-12">
                     Testimonials
                 </h1>
                 <div className = "flex flex-wrap m-4">
                     {testimonials.map((testimonial) => (
                         <div className = "p-4 md:w-1/2 w-full">
-                            <div className = "h-full bg-gray-800 bg-opacity-40 p-8 rounded">
-                                <TerminalIcon className = "block w-8 text-gray-500 mb-4"/>
-                                <p className = "leading-relaxed mb-6">
+                            <div className = "h-full bg-gray-600 bg-opacity-40 p-8 rounded">
+                                <p className = "leading-relaxed mb-6 italic">
                                     {testimonial.quote}
                                 </p>
-                                <div className = "inline-flex items-center">
+                                <div className = "inline-flex items-center text-2 lg:-4 md:-3 sm:-2  sm:px-6 ">
                                 <img 
                                     alt = "testimonial"
                                     src = {testimonial.image}

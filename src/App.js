@@ -21,7 +21,7 @@ import P5 from "./components/project_detail/Project5";
 
 export default function App() {
   return(
-    <main className = "text-white bg-gray-400 body-font">
+    <main className = "text-black bg-gray-100 body-font">
 
         <Navbar />
 

@@ -76,7 +76,7 @@ export default function Contact(){
                 className = "lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"
                 data-netlify="true"
                 >
-                    <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
+                    <h2 className="text-black sm:text-4xl text-3xl mb-1 font-medium title-font">
                         Contact Me
                     </h2>
                     <p className="leading-relaxed mb-5">
@@ -84,7 +84,7 @@ export default function Contact(){
                         I’ll try my best to get back to you as soon as I can! {/*why hire? */}
                     </p>
                     <div className="relative mb-4">
-                        <label htmlFor="name" className="leading-7 text-sm text-white">
+                        <label htmlFor="name" className="leading-7 text-sm text-black">
                         Name
                         </label>
                         <input
@@ -96,7 +96,7 @@ export default function Contact(){
                         />
                     </div>
                     <div className="relative mb-4">
-                        <label htmlFor="email" className="leading-7 text-sm text-white">
+                        <label htmlFor="email" className="leading-7 text-sm text-black">
                         Email
                         </label>
                         <input
@@ -110,7 +110,7 @@ export default function Contact(){
                     <div className="relative mb-4">
                         <label
                         htmlFor="message"
-                        className="leading-7 text-sm text-white">
+                        className="leading-7 text-sm text-black">
                         Message
                         </label>
                         <textarea
