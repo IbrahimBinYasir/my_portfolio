@@ -63,7 +63,7 @@ export default function Contact(){
                             <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                                 PHONE
                             </h2>
-                            <p className="leading-relaxed">
+                            <p className="leading-relaxed text-white">
                                 +82-10-2937-8980
                             </p>
                         </div>

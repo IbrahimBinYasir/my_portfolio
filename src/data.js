@@ -36,8 +36,8 @@ export const project_data = [
     description:
       "Aimed to control SMA, specifically the position of SMA in coil form by solely using reinforcement learning (RL) in real-time environment (Collaboration with ChrisFugl)",
     image: "./project-4.png",
-    //link: "/project4",
-     link: "https://github.com/ChrisFugl/Shape-Memory-Alloy-Positioning",
+    link: "/project4",
+     //link: "https://github.com/ChrisFugl/Shape-Memory-Alloy-Positioning",
   },
   {
     title: "Soft Robot Actuator",
