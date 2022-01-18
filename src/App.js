@@ -25,7 +25,6 @@ export default function App() {
 
         <Navbar />
 
-
       <Router>
           <Routes>
                   <Route path="/" element={<Main_page />} />
