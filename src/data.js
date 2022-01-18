@@ -9,8 +9,8 @@ export const project_data = [
     description:
       "Designed a flexible, thin, lightweight & transparent optical tactile sensor capable to measuring forces in 3D (normal and shear) for enhanced human robot interaction and collaboration",
     image: "./project-1.png",
-    //link: "/project1",
-    link: "https://drive.google.com/file/d/1wgzZjDiGsLrIC_kcr5g7VU376saSmMoM/view?usp=sharing",
+    link: "/project1",
+    //link: "https://drive.google.com/file/d/1wgzZjDiGsLrIC_kcr5g7VU376saSmMoM/view?usp=sharing",
 
   },
   {

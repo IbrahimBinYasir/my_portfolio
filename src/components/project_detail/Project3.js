@@ -35,7 +35,7 @@ export default function Project3(){
                     </img>
                                 </div>
                                 <div className="w-full md:w-6/12 mt-4 md:mt-0 md:ml-4">
-                                    <h2 className="text-lg font-semibold leading-tight text-gray-800">
+                                    <h2 className="text-lg font-semibold text-center leading-tight text-gray-800">
                                         Summary
                                     </h2>
                                     <p className="leading-normal pt-2 text-gray-800">
@@ -71,7 +71,7 @@ export default function Project3(){
                     </img>
                                 </div>
                                 <div className="w-full md:w-6/12 mt-4 md:mt-0 md:ml-4">
-                                    <h2 className="text-lg font-semibold leading-tight text-gray-800">
+                                    <h2 className="text-lg font-semibold text-center leading-tight text-gray-800">
                                         Soft Actuator
                                     </h2>
                                     <p className="leading-normal pt-2 text-gray-800 list-disc">
@@ -108,7 +108,7 @@ export default function Project3(){
                     </img>
                                 </div>
                                 <div className="w-full md:w-6/12 mt-4 md:mt-0 md:ml-4">
-                                    <h2 className="text-lg font-semibold leading-tight text-gray-800">
+                                    <h2 className="text-lg font-semibold text-center leading-tight text-gray-800">
                                         Soft Sensor
                                     </h2>
                                     <p className="leading-normal pt-2 text-gray-800 list-disc">
@@ -141,7 +141,7 @@ export default function Project3(){
        </video>
                     </div>
                     <div className="w-full md:w-6/12 mt-4 md:mt-0 md:ml-4">
-                        <h2 className="text-lg font-semibold leading-tight text-gray-800">
+                        <h2 className="text-lg font-semibold text-center leading-tight text-gray-800">
                             Sensor Demo Video
                         </h2>
                         <p className="leading-normal pt-2 text-gray-800 list-disc">
@@ -164,7 +164,7 @@ export default function Project3(){
              id = "Skills"> {/*mx-auto centers the container */}
                 <div className = "text-center mb-20"> {/*margin-bottom*/}
                     <ChipIcon className = "w-10 inline-block mb-4"/>
-                    <h1 className = "sm:text-4xl text-3xl font-medium title-font text-white mb-4">{/* font-{weight} */}
+                    <h1 className = "sm:text-4xl text-3xl font-medium title-font text-black mb-4">{/* font-{weight} */}
                         Technologies Used
                     </h1>
                 </div>
