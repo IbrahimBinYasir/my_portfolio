@@ -3,7 +3,8 @@ import React from "react";
 
 
 export const project_data = [
-  {
+
+    {
     title: "Sensors",
     subtitle: "Flexilbe Optical Sensor for Tri-axial Force Measurement",
     description:
@@ -45,8 +46,8 @@ export const project_data = [
     description:
       "Developed a bio-inspired hybrid actuator inspired by crustacean exoskeleton by incorporating rigid shells and a soft core. When actuated, the biomimetic actuator was able to produce forces up to 11.5 N at 135 KPa, satisfying the required criteria of 8N for palm grasping. The proposed soft bio-inspired hybrid bending actuator was used as a supernumerary sixth finger for rehabilitation and robot grippers",
     image: "./project-5.png",
-    //ink: "/project5",
-      link: "https://drive.google.com/drive/folders/11DEagDHF3wPuOoOyNKMvtI3CadbwKSAJ?usp=sharing",
+    link: "/project5",
+    //link: "https://drive.google.com/drive/folders/11DEagDHF3wPuOoOyNKMvtI3CadbwKSAJ?usp=sharing",
   },
 ];
 
