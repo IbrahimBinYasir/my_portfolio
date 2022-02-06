@@ -9,7 +9,7 @@ export default function Skills(){
                 <div className = "text-center mb-20"> {/*margin-bottom*/}
                     <ChipIcon className = "w-10 inline-block mb-4"/>
                     <h1 className = "sm:text-4xl text-3xl font-medium title-font text-black mb-4">{/* font-{weight} */}
-                        Skills & Softwares
+                        Skills & Software
                     </h1>
                 </div>
                 <div className = "flex flex-wrap lg:w-4/5 sm:mx-auto sm: mb-2 -mx-2">{/* negative margin: pulls the element towards the previous element. Where margin pushes away, this pulls it closer to it*/}
