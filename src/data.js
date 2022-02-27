@@ -5,6 +5,15 @@ import React from "react";
 export const project_data = [
 
     {
+    title: "MEMS",
+    subtitle: "Microelectromechanical systems",
+    description:
+      "Fabricated force sensor using MEMS. Futhermore, trained on the equipment and taught graduate students how to use microelectronics for their research.",
+    image: "https://www.pureairemonitoring.com/wp-content/uploads/2020/10/MEMS-Article.jpg",
+    link: "/project0",
+
+  },
+    {
     title: "Sensors",
     subtitle: "Flexilbe Optical Sensor for Tri-axial Force Measurement",
     description:

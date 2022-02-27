@@ -10,6 +10,7 @@ import Testimonials from "./components/Testimonials";
 import ErrorPage from "./components/ErrorPage";
 import Main_page from "./components/Main_page";
 
+import P0 from "./components/project_detail/Project0";
 import P1 from "./components/project_detail/Project1";
 import P2 from "./components/project_detail/Project2";
 import P3 from "./components/project_detail/Project3";
@@ -34,6 +35,7 @@ export default function App() {
                   <Route path="/contact" element={<Contact />} />
                   <Route path="*" element={<ErrorPage />} />
                   <Route path="projects" element={<Projects />} />
+                  <Route path="project0" element={<P0 />} />
                   <Route path="project1" element={<P1 />} />
                   <Route path="project2" element={<P2 />} />
                   <Route path="project3" element={<P3 />} />
