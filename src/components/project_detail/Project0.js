@@ -128,6 +128,53 @@ export default function Project0(){
                 </div>
             </div>
 
+
+ <div className="w-full my-12">
+                <div className="max-w-5xl mx-auto px-6 sm:px-6 lg:px-8">
+                    <div className="bg-gray-50 w-full shadow rounded p-8">
+                        <div className="grid grid-cols-1 gap-8 mt-6">
+                            <div className="flex flex-col md:flex-row">
+                                <div className="w-full md:w-6/12 rounded overflow-hidden">
+                   <img className = "object-contact object-left-top rounded border-solid border-4 border-steel-200"
+                         alt = "hero"
+                         src={ require('./Images/p0(d).png') }>
+                    </img>
+                                </div>
+                                <div className="w-full md:w-6/12 mt-4 md:mt-0 md:ml-4">
+                                    <h2 className="text-lg font-semibold text-center leading-tight text-gray-800">
+                                        Micro-Pattern Fabrication
+                                    </h2>
+                                    <p className="leading-normal pt-2 text-gray-800 list-disc">
+                                    <li>
+                                        To enhance the response and sensitivity of a touch sensor, I fabricated the illustrated micro-pattern structure.
+                                    </li>
+                                        <li>
+                                            SEM performed by SU5000 (HITACHI)
+                                        </li>
+                                        <p1 className="text-center">
+                                        ------Protocol-----
+                                    </p1>
+
+                                        <li className= "list-none">    </li>
+
+                                        <li>Prepare the Liftoff photoresist on the Si wafer</li>
+                                        <li> Chrome and Gold are evaporated via E-Beam sequentially.</li>
+                                        <li>The wafter is put inside acetone for liftoff. If the PR is crosslinked, try sonication</li>
+                                        <li>Etching unsing 30% KOH @ 80 C. This results in an etch rate of approx. 1 microns/min.</li>
+                                        <li>Rinse the wafer and treat it with silane before pouring PDMS (Sylgard (10:1)</li>
+                                        <li>Cure @ 120 C for 2 hours and remove the PDMS.</li>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
                                    <div className="w-full my-12">
                 <div className="max-w-5xl mx-auto px-6 sm:px-6 lg:px-8">
                     <div className="bg-gray-50 w-full shadow rounded p-8">
