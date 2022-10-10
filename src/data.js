@@ -5,15 +5,6 @@ import React from "react";
 export const project_data = [
 
     {
-    title: "MEMS",
-    subtitle: "Microelectromechanical systems",
-    description:
-      "Fabricated force sensor using MEMS. Futhermore, trained on the equipment and taught graduate students how to use microelectronics for their research.",
-    image: "https://www.pureairemonitoring.com/wp-content/uploads/2020/10/MEMS-Article.jpg",
-    link: "/project0",
-
-  },
-    {
     title: "Sensors",
     subtitle: "Flexilbe Optical Sensor for Tri-axial Force Measurement",
     description:
@@ -24,13 +15,22 @@ export const project_data = [
 
   },
   {
-    title: "Rehabilitation Robot",
-    subtitle: "Wrist 2 DOF Assistive Robot Using SMA",
+    title: "Reinforcement Learning",
+    subtitle: "Control of Shape Memory Alloy Coiled Spring",
     description:
-      "Contributed in developing a soft sensorized wearable glove using Shape Memory Alloy (SMA) coiled spring actuator for a wearable assist robot for the wrist. It delivered the required torque and ROM needed during activities of daily living. (Joint project KAIST and CNU Hospital funded by NRF and Ministry of Health and Welfare) ",
-    image: "./project-2.png",
-    link: "/project2",
-        //"https://www.mdpi.com/2076-3417/9/19/4025",
+      "Aimed to control SMA, specifically the position of SMA in coil form by solely using reinforcement learning (RL) in real-time environment (Collaboration with ChrisFugl)",
+    image: "./project-4.png",
+    link: "/project4",
+     //link: "https://github.com/ChrisFugl/Shape-Memory-Alloy-Positioning",
+  },
+    {
+    title: "MEMS",
+    subtitle: "Microelectromechanical systems",
+    description:
+      "Fabricated force sensor using MEMS. Futhermore, trained on the equipment and taught graduate students how to use microelectronics for their research.",
+    image: "https://www.pureairemonitoring.com/wp-content/uploads/2020/10/MEMS-Article.jpg",
+    link: "/project0",
+
   },
   {
     title: "Sensor & Actuator",
@@ -41,13 +41,13 @@ export const project_data = [
     link: "/project3",
   },
   {
-    title: "Reinforcement Learning",
-    subtitle: "Control of Shape Memory Alloy Coiled Spring",
+    title: "Rehabilitation Robot",
+    subtitle: "Wrist 2 DOF Assistive Robot Using SMA",
     description:
-      "Aimed to control SMA, specifically the position of SMA in coil form by solely using reinforcement learning (RL) in real-time environment (Collaboration with ChrisFugl)",
-    image: "./project-4.png",
-    link: "/project4",
-     //link: "https://github.com/ChrisFugl/Shape-Memory-Alloy-Positioning",
+      "Contributed in developing a soft sensorized wearable glove using Shape Memory Alloy (SMA) coiled spring actuator for a wearable assist robot for the wrist. It delivered the required torque and ROM needed during activities of daily living. (Joint project KAIST and CNU Hospital funded by NRF and Ministry of Health and Welfare) ",
+    image: "./project-2.png",
+    link: "/project2",
+        //"https://www.mdpi.com/2076-3417/9/19/4025",
   },
   {
     title: "Soft Robot Actuator",
@@ -101,11 +101,12 @@ export const testimonials = [
 ];
 
 export const skills = [
+  "Mechatronics",
   "Haptics",
-  "Prototyping",
   "Soft Robotics",
   "Medical Robotics",
   "MATLAB",
+  "Prototyping",
   "COMSOL",
   "MEMS",
   "Python",
