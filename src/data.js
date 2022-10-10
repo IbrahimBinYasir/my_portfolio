@@ -70,6 +70,13 @@ export const testimonials = [
   },
   {
     quote:
+      " I am very lucky to have the lab mate who is as optimistic, assertive and enthusiastic as Ibrahim. He knows what he likes and is very passionate about them. He does not hesitate to help the others and I respect him for that. When it comes to his field of research, he is very experienced and can provide others with practical advice. Also, he is an amazing friend. In times of difficulties i.e. during my thesis preparation, he would encourage me consistently throughout the end which gave me strength to reach the final goal. I owe him for all of that. Ibrahim, I really wish for your success in life.",
+    image: "./Hee-Ju.png",
+    name: "Hee-Ju Moon",
+    company: "HRI Lab, KAIST",
+  },
+  {
+    quote:
       "Through our LFM Programme, I was fortunate enough to work with Ibrahim on two key projects in our manufacturing works. Ibrahim’s passion, energy and relentless commitment proved instrumental in driving the team towards meaningful results. As a human being he has a beautiful soul and I look back at the time spent working together with great affection; wishing him continued success in his future endeavours.",
     image: "./SirAhmed.jpg",
     name: "Muhammad Ahmad Qadri",
@@ -94,12 +101,12 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "MATLAB",
-  "CAD/3D Modeling",
+  "Haptics",
   "Prototyping",
   "Soft Robotics",
+  "Medical Robotics",
+  "MATLAB",
   "COMSOL",
   "MEMS",
-  "OriginLab",
   "Python",
 ];
